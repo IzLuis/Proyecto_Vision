@@ -8,6 +8,7 @@ import dlib
 import cv2
 import math
 
+#test
 def is_mouth_open(landmarks, ar_threshold=0.7):
 # Calculate the euclidean distance labelled as A,B,C
 
